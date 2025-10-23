@@ -1,1 +1,13 @@
-{}
+{
+  "ENG-Championship": {
+    "ClubElo": "ENG_2",
+    "MatchHistory": "E1",
+    "SoFIFA": "[England] Championship",
+    "FBref": "EFL Championship",
+    "ESPN": "eng.2",
+    "FiveThirtyEight": "championship",
+    "WhoScored": "England - Championship",
+    "Sofascore": "championship",
+
+  }
+}
